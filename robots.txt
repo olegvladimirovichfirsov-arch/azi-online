@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olegvladimirovichfirsov-arch.github.io/azi-online/sitemap.xml
